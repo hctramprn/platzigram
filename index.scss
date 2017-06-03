@@ -1,12 +1,13 @@
 $secondary-color: #125688;
 
-@import "node_modules/materialize-css/sass/materialize.scss"
+@import "node_modules/materialize-css/sass/materialize.scss";
 
 body {
   background: #fafafa;
   color: #125688;
   font-family: 'Montserrat', sans-serif;
 }
+
 main-container {
   margin: 30px auto;
 }
